@@ -1,0 +1,11 @@
+Package: orcburgerhelper
+Type: Package
+Title: Table Top Data assistant
+Version: 1.0
+Author: person("Torrance", "Williams", email = "torrancew@mail.usf.edu",
+  role = c("aut", "cre"))
+Description: This package is useful for storing information on rolls and character information during a table top game. It allows players to keep track of their rolls and a character stat changes as the game goes on.
+License: CCO
+Depends: R (>= 3.5.0)
+Encoding: UTF-8
+LazyData: true
